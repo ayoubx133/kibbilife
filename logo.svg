@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Kibbi Life">
+  <circle cx="64" cy="64" r="60" fill="#fff4f7" stroke="#3b2433" stroke-width="6"/>
+  <g stroke="#3b2433" stroke-width="5" stroke-linejoin="round">
+    <path d="M60 62 C44 38 18 34 16 52 C14 70 34 84 60 68 Z" fill="#ff3b4e"/>
+    <path d="M68 62 C84 38 110 34 112 52 C114 70 94 84 68 68 Z" fill="#ff3b4e"/>
+    <path d="M58 68 L44 98 L56 94 L62 104 L64 70 Z" fill="#e8273b"/>
+    <path d="M70 68 L84 98 L72 94 L66 104 L64 70 Z" fill="#e8273b"/>
+    <rect x="54" y="54" width="20" height="22" rx="8" fill="#ff3b4e"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="30" cy="50" r="4.5"/><circle cx="44" cy="58" r="4"/><circle cx="32" cy="66" r="3.5"/><circle cx="48" cy="46" r="3"/>
+    <circle cx="98" cy="50" r="4.5"/><circle cx="84" cy="58" r="4"/><circle cx="96" cy="66" r="3.5"/><circle cx="80" cy="46" r="3"/>
+    <circle cx="64" cy="62" r="3.5"/><circle cx="52" cy="84" r="2.8"/><circle cx="76" cy="84" r="2.8"/>
+  </g>
+</svg>
